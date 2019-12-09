@@ -1,0 +1,1 @@
+This python module gives you a function to resize pictures with padding. It will resize the pictures without scretching them by using black borders. Intended to use in Machine Learning applications.
